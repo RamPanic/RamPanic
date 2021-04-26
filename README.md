@@ -1,5 +1,5 @@
 
-### Bienvenido compañero 👋
+### Bienvenido compañero/a 👋
 
 Pues, acá tiene mi baúl con algunos proyectos que quizá le sirva.
 
