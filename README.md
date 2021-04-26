@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**RamPanic/RamPanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bienvenido compañero 👋
 
-Here are some ideas to get you started:
+Pues, acá tiene mi baúl con algunos proyectos que quizá le sirva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Por si alguna razón quieres enviarme un mensaje por un canal inseguro, entonces deberías hacerlo con GnuPG:
+
+```bash
+gpg --keyserver keys.gnupg.net --recv-keys 233706CB8070A2D4C83ECDB833E1035012F408F8
+```
+
+O bueno, también tiene la opción del correo: dementor20@protonmail.com
+
+*$(RamPanic)*
+
