@@ -5,9 +5,11 @@ Pues, acá tiene mi baúl con algunos proyectos que quizá le sirva.
 
 Root-Me: https://www.root-me.org/RamPanic?lang=es
 
-<img src="http://www.hackthebox.eu/badge/image/154673" alt="Hack The Box">
-
 HackTheBox: RamPanic
+
+*Badge from HTB*
+
+<img src="http://www.hackthebox.eu/badge/image/154673" alt="Hack The Box">
 
 Si por alguna razón quiere enviarme un mensaje por un canal inseguro, entonces debería hacerlo con GnuPG:
 
